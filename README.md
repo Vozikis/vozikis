@@ -1,5 +1,5 @@
 ## Hi there 👋
-## Find everything of interest at vozikis.github.io
+## [Something interesting](vozikis.github.io)
 <!--
 **Vozikis/vozikis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
